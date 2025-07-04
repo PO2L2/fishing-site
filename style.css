@@ -1,0 +1,22 @@
+p{
+    color: black;
+    font-size: 20px;
+
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://avatars.mds.yandex.net/i?id=14f7e44cc7f2e7967d8e88b23e1e0821_l-12797344-images-thumbs&n=13);
+    background-position: center;
+    background-size: cover;
+}
+
+form{
+    background-color: rgb(74, 141, 53);
+    padding: 40px;
+    flex-direction: column;
+    gap: 10px;
+}
